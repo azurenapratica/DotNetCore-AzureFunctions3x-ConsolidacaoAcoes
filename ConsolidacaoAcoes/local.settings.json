@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseIndicadores": "CONEXÃO SQL SERVER",
+    "DBAcoesConnectionString": "CONEXÃO AZURE COSMOS DB",
+    "DBAcoesEndpointUri": "AZURE COSMOS DB ENDPOINT",
+    "DBAcoesEndpointPrimaryKey": "AZURE COSMOS DB PRIMARY KEY",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RedisConnectionString": "CONEXÃO REDIS"
+  }
+}
